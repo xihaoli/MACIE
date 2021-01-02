@@ -5,7 +5,9 @@ Thank you for your interest in MACIE. MACIE (Multi-dimensional Annotation Class 
 
 ## Data Availability and Reproducibility
 The MACIE scores (and other integrative scores) used in all benchmarking examples are available for download here.
+
 Precomputed MACIE scores for all nonsynonymous coding, synonymous coding and noncoding variants in the human genome is under construction.
+
 All genomic coordinates are given in NCBI Build 37/UCSC hg19.
 
 ## Reference
