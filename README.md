@@ -9,5 +9,5 @@ The MACIE scores (and other integrative scores) used in all benchmarking example
 All genomic coordinates are given in NCBI Build 37/UCSC hg19.
 
 ## Reference
-Xihao Li*, Godwin Yung*, Hufeng Zhou, Ryan Sun, Zilin Li, Yaowu Liu, Iuliana Ionita-Laza and Xihong Lin (2021+) "[A multi-dimensional integrative scoring framework for predicting functional variants in the human genome](https://doi.org/10.1101/2021.01.06.425527)".
+Xihao Li*, Godwin Yung*, Hufeng Zhou, Ryan Sun, Zilin Li, Yaowu Liu, Iuliana Ionita-Laza, and Xihong Lin (2021+) "A Multi-Dimensional Integrative Scoring Framework for Predicting Functional Variants in the Human Genome". *Submitted*.
 
