@@ -7,7 +7,7 @@ Thank you for your interest in MACIE. MACIE (Multi-dimensional Annotation Class 
 ## Data Availability and Code Reproducibility
 The MACIE scores (and other integrative scores) used in all benchmarking examples are available for download [here](https://drive.google.com/drive/folders/1gzqsfgaO1WCh5pAQUgVlUNsX9HYneO7p?usp=sharing). Precomputed MACIE scores for every possible variant in the human genome are available for download.
 
-The code used for training MACIE models are available [here]().
+The code used for training MACIE models are available [here](https://github.com/xihaoli/MACIE/blob/main/code/MACIE.py).
 
 All genomic coordinates are given in NCBI Build 37/UCSC hg19.
 
