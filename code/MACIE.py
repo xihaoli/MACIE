@@ -689,12 +689,12 @@ def save_parameter(parameter_r, annotation, n_factors, directory, prefix='', suf
 # MAIN
 ###
 
-# An example of the coding_class.txt file for non-synonymous coding variants can be found here ()
+# An example of the coding_class.txt file for non-synonymous coding variants can be found here (https://github.com/xihaoli/MACIE/blob/main/code/coding_class.txt)
 # The coding_annotations.txt file should have the same header as the coding_class.txt file
 # python MACIE.py -m train -a train_coding_dir/coding_annotations.txt -c train_coding_dir/coding_class.txt -o train_coding_dir/ -f 22
 # python MACIE.py -m predict -a pred_coding_dir/coding_annotations.txt -c train_coding_dir/coding_class.txt -o pred_coding_dir/ -f 22 -p train_coding_dir/
 
-# An example of the noncoding_class.txt file for non-coding and synonymous coding variants can be found here ()
+# An example of the noncoding_class.txt file for non-coding and synonymous coding variants can be found here (https://github.com/xihaoli/MACIE/blob/main/code/noncoding_class.txt)
 # The noncoding_annotations.txt file should have the same header as the noncoding_class.txt file.
 # python MACIE.py -m train -a train_noncoding_dir/noncoding_annotations.txt -c train_noncoding_dir/noncoding_class.txt -o train_noncoding_dir/ -f 23
 # python MACIE.py -m predict -a pred_noncoding_dir/noncoding_annotations.txt -c train_noncoding_dir/noncoding_class.txt -o pred_noncoding_dir/ -f 23 -p train_noncoding_dir/
