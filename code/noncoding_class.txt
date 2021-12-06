@@ -1,0 +1,4 @@
+Chrom Pos Ref Alt GERP_NR GERP_RS PhyloPri PhyloPla PhyloVer PhastPri PhastPla PhastVer GC CpG EncExp EncH3K27Ac EncH3K4Me1 EncH3K4Me3 EncOCCombPVal EncOCDNasePVal EncOCFairePVal EncOCpolIIPVal EncOCctcfPVal EncOCmycPVal EncOCDNaseSig EncOCFaireSig EncOCpolIISig EncOCctcfSig EncOCmycSig TFBS TFBSPeaks TFBSPeaksMax cHmmTSSOdds cHmmTxOdds cHmmEnhOdds cHmmZnfOdds cHmmReprOdds bStatistic minDistTSS minDistTSE
+I I I I C C C C C D D D C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+0 0 0 0 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+
