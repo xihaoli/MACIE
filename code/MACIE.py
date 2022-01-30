@@ -27,7 +27,7 @@ def hermite(points, z):
 '''
 Given
   - points = number of fixed abscissae
-  - iterlim = max number of Netwon-Rhapson iterations
+  - iterlim = max number of Newton-Raphson iterations
 Return gauss-hermite quadrature
   - points
   - weights
@@ -119,7 +119,7 @@ def logistic_regression(covariate,outcome,iterlim=50):
   coef0 = linear_regression(covariate,outcome)
   converge = False
   i = 0
-  while (converge == False and i < 50):
+  while (converge == False and i < iterlim):
     eta = X * coef0
     mu = np.exp(eta)/(1+np.exp(eta))
     Z = eta + (Y-mu)/mu/(1-mu)
