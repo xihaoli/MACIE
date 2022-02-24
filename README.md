@@ -16,4 +16,4 @@ The code used for training MACIE models are available [here](https://github.com/
 All genomic coordinates are given in NCBI Build 37/UCSC hg19.
 
 ## Reference
-Xihao Li*, Godwin Yung*, Hufeng Zhou, Ryan Sun, Zilin Li, Kangcheng Hou, Martin Jinye Zhang, Yaowu Liu, Theodore Arapoglou, Chen Wang, Iuliana Ionita-Laza, and Xihong Lin (2021+) "A Multi-Dimensional Integrative Scoring Framework for Predicting Functional Variants in the Human Genome". *Submitted*.
+Xihao Li*, Godwin Yung*, Hufeng Zhou, Ryan Sun, Zilin Li, Kangcheng Hou, Martin Jinye Zhang, Yaowu Liu, Theodore Arapoglou, Chen Wang, Iuliana Ionita-Laza, and Xihong Lin (2022). **A multi-dimensional integrative scoring framework for predicting functional variants in the human genome**. *The American Journal of Human Genetics*. DOI: <a href="https://doi.org/10.1016/j.ajhg.2022.01.017">10.1016/j.ajhg.2022.01.017</a>.
